@@ -31,15 +31,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dracula&hide_border=false" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dracula&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=dracula" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsema13&theme=dracula" height="180"/>
 </p>
 
 ---
 
 ### 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=dracula&hide_border=false&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=dracula&area=true" width="100%"/>
 </p>
 
 ---
@@ -57,6 +57,6 @@
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-ff80ab?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-b39ddb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-ffb74d?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-ffb74d?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=web&logoColor=white"/></a>
 </p>
