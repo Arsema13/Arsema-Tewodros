@@ -1,26 +1,19 @@
-<h1 align="center">✨ Hi, I'm Lily ✨</h1>
-<h3 align="center">👩‍💻 Mobile & Full-Stack Developer | Flutter • PHP • MySQL • HTML • CSS</h3>
+<h1 align="center">🌸 Hi, my name is Arsema Tewodros 🌸</h1>
+<h3 align="center">✨ Web Developer | Mobile Enthusiast | Tech Lover ✨</h3>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250"/>
-</p>
+### 💫 Typing About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF69B4&background=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arsema+Tewodros+%F0%9F%92%96;I'm+a+Web+Developer+%F0%9F%92%BB;I+also+explore+Mobile+Development+%F0%9F%93%B1;Check+out+my+Portfolio+below+%F0%9F%91%87)](https://git.io/typing-svg)
 
 ---
 
 ### 🌸 About Me
-- 💖 Passionate about **coding & creativity**  
-- 📱 Building **mobile apps with Flutter**  
-- 🌐 Skilled in **HTML, CSS, PHP, MySQL**  
-- 🎀 Mixing **tech + design** to create elegant solutions  
-- 🌱 Learning **backend & cloud integrations**  
+- 👩‍💻 I’m a **Web Developer** passionate about building creative, responsive, and user-friendly applications.  
+- 🌐 Skilled in **HTML, CSS, PHP, MySQL** and exploring **Flutter** for mobile apps.  
+- 🎀 Love combining **design + tech** to create unique experiences.  
 - ✨ Fun fact: Coffee + Code = Perfect Day ☕💻  
-
----
-
-### 💫 My Vibe (Typing Animation)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF69B4&background=000000&center=true&vCenter=true&width=600&lines=👩‍💻+Girl+in+Tech;🌸+Mobile+%26+Full-Stack+Developer;💖+Flutter+%7C+PHP+%7C+MySQL;✨+Always+Learning+%26+Building;🚀+Turning+ideas+into+apps)](https://git.io/typing-svg)
+- 🔗 [**Check out my Portfolio here**](https://your-portfolio-link.com)  
 
 ---
 
@@ -43,11 +36,19 @@
 
 ---
 
+### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lilytewodros&theme=tokyo-night-pink&bg_color=000000&line=ff69b4&point=f48fb1&hide_border=true" width="100%"/>
+</p>
+
+---
+
 ### 🌍 Connect With Me
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-ff80ab?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-b39ddb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/lilytewodros"><img src="https://img.shields.io/badge/GitHub-ffb74d?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=web&logoColor=white"/></a>
 </p>
 
 ---
