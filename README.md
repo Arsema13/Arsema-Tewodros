@@ -1,10 +1,10 @@
 <h1 align="center">🌸 Hi, I'm Arsema Tewodros 🌸</h1>
-<h3 align="center">👩‍💻  Web & Full-Stack Developer | Flutter • PHP • MySQL • HTML • CSS</h3>
+<h3 align="center">👩‍💻 Web & Full-Stack Developer | Flutter • PHP • MySQL • HTML • CSS</h3>
 
 ---
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=FF69B4&background=00000000&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Arsema+Tewodros;A+Passionate+Web+Developer+%F0%9F%92%BB;Flutter+Mobile+Apps+%F0%9F%93%B1;Designing+Elegant+UI+%26+UX+%F0%9F%91%80;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=FF69B4&background=00000000&center=true&vCenter=true&width=750&lines=Hi!+I'm+Arsema+Tewodros+🌸;I+Build+Web+%26+Mobile+Apps+👩‍💻;Turning+Ideas+into+Reality+🚀;Check+My+Portfolio+Below+💖)](https://git.io/typing-svg)
 
 ---
 
@@ -18,13 +18,22 @@
 
 ---
 
-
+### 🛠️ My Tech Palette
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-ff6f61?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-4db6ac?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-9c27b0?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-5c6bc0?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-f06292?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+---
+
+### 💻 My Projects
+<p align="center">
+  <a href="https://github.com/Arsema13/Project1"><img src="https://img.shields.io/badge/Project1-CoolApp-ff69b4?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Project2"><img src="https://img.shields.io/badge/Project2-AwesomeWeb-ffb6c1?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Project3"><img src="https://img.shields.io/badge/Project3-FlutterApp-f06292?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -44,7 +53,7 @@
 
 ---
 
-### ✨ Attention-Grabbing Flair
+
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="250"/>
   <br/>
