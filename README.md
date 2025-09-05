@@ -3,7 +3,7 @@
 
 ---
 
-### 💫 My Elegant Intro (Typing Animation)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=FF69B4&background=00000000&center=true&vCenter=true&width=750&lines=Hi!+I'm+Arsema+Tewodros+🌸;I+Build+Web+%26+Mobile+Apps+👩‍💻;Turning+Ideas+into+Reality+🚀;Check+My+Portfolio+Below+💖)](https://git.io/typing-svg)
 
 ---
@@ -55,9 +55,9 @@
 
 ---
 
-### 🎀 Ending Flair
+
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
   <br/>
-  <em>💖 Elegant, Creative & Ready to Build Amazing Things 🌸</em>
+  <em>💖 Creative & Ready to Build Amazing Things 🌸</em>
 </p>
