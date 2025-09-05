@@ -3,10 +3,11 @@
 
 ---
 
-<div align="center" style="border: 3px solid #ff69b4; border-radius: 15px; padding: 15px; display: inline-block; box-shadow: 0 0 15px #ff69b4, 0 0 30px #ffb6c1, 0 0 45px #ff69b4;">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=FF69B4&background=00000000&center=true&vCenter=true&width=750&lines=Hi!+I'm+Arsema+Tewodros+🌸;I+Build+Web+%26+Mobile+Apps+👩‍💻;Turning+Ideas+into+Reality+🚀;Check+My+Portfolio+Below+💖)](https://git.io/typing-svg)
-</div>
-
+<p align="center">  
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=FF69B4&background=00000000&center=true&vCenter=true&width=750&lines=Hi!+I'm+Arsema+Tewodros+🌸;I+Build+Web+%26+Mobile+Apps+👩‍💻;Turning+Ideas+into+Reality+🚀;Check+My+Portfolio+Below+💖)](https://git.io/typing-svg)  
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨  
+</p>
 
 ---
 
