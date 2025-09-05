@@ -20,15 +20,7 @@
 
 ### 💻 Projects & Highlights
 <p align="center">
-  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="150" alt="Quiz App"/></a>
-  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="BMI Calculator"/></a>
-  <a href="https://github.com/Arsema13/News-App"><img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150" alt="News App"/></a>
-  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="150" alt="Compass Menu Website"/></a>
-  <a href="https://github.com/Arsema13/Weather-App"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Weather App"/></a>
-  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="FunFact App"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/QuizApp-ff69b4?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz-App-ff69b4?style=for-the-badge"/></a>
   <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-ffb6c1?style=for-the-badge"/></a>
   <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News-App-f06292?style=for-the-badge"/></a>
   <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass-Menu-Website-ff69b4?style=for-the-badge"/></a>
