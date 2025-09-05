@@ -3,7 +3,7 @@
 
 ---
 
-
+### 💫 My Elegant Intro (Typing Animation)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=FF69B4&background=00000000&center=true&vCenter=true&width=750&lines=Hi!+I'm+Arsema+Tewodros+🌸;I+Build+Web+%26+Mobile+Apps+👩‍💻;Turning+Ideas+into+Reality+🚀;Check+My+Portfolio+Below+💖)](https://git.io/typing-svg)
 
 ---
@@ -20,14 +20,20 @@
 
 ### 💻 Projects & Highlights
 <p align="center">
-  <a href="https://github.com/Arsema13/Project1"><img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="180" alt="Project1"/></a>
-  <a href="https://github.com/Arsema13/Project2"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="Project2"/></a>
-  <a href="https://github.com/Arsema13/Project3"><img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="180" alt="Project3"/></a>
+  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="150" alt="Quiz App"/></a>
+  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="BMI Calculator"/></a>
+  <a href="https://github.com/Arsema13/News-App"><img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150" alt="News App"/></a>
+  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="150" alt="Compass Menu Website"/></a>
+  <a href="https://github.com/Arsema13/Weather-App"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Weather App"/></a>
+  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="FunFact App"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Arsema13/Project1"><img src="https://img.shields.io/badge/Project1-CoolApp-ff69b4?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/Project2"><img src="https://img.shields.io/badge/Project2-AwesomeWeb-ffb6c1?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/Project3"><img src="https://img.shields.io/badge/Project3-FlutterApp-f06292?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/QuizApp-ff69b4?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-ffb6c1?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News-App-f06292?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass-Menu-Website-ff69b4?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Weather-App"><img src="https://img.shields.io/badge/Weather-App-ffb6c1?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://img.shields.io/badge/FunFact-App-f06292?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -57,7 +63,7 @@
 
 ---
 
-### 
+### 🎀 Ending Flair
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
   <br/>
