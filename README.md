@@ -45,20 +45,39 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/arsema13/Flutter-Todo-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Flutter-Todo-App&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  <!-- Replace "Project-Name-X" with your actual repo links -->
+  <a href="https://github.com/arsema13/Project-Name-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-1&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
   </a>
-  <a href="https://github.com/arsema13/Weather-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Weather-App&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  <a href="https://github.com/arsema13/Project-Name-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-2&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/arsema13/News-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=News-App&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  <a href="https://github.com/arsema13/Project-Name-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-3&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
   </a>
-  <a href="https://github.com/arsema13/Chat-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Chat-App&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  <a href="https://github.com/arsema13/Project-Name-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-4&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arsema13/Project-Name-5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-5&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  </a>
+  <a href="https://github.com/arsema13/Project-Name-6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-6&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arsema13/Project-Name-7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-7&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  </a>
+  <a href="https://github.com/arsema13/Project-Name-8">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-8&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
   </a>
 </p>
 
@@ -67,7 +86,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,html,css,js,react,nodejs,figma,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,flutter&theme=light" />
 </p>
 
 ---
