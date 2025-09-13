@@ -1,61 +1,57 @@
-<h1 align="center">👋 Hey Everyone , I'm Rossyn</h1>
+<!-- Elegant Animated GitHub Profile README -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4EF0F7&center=true&vCenter=true&width=600&lines=Hello+👋+I'm+Arsema+Tewodros;Web+Developer+💻;Mobile+App+Developer📱;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+</h1>
+
+---
+
+### 👩‍💻 About Me  
+✨ Passionate about **coding & problem-solving**  
+🌱 Currently learning **Flutter & Full-Stack Development**  
+💡 Love turning **ideas into elegant applications**  
+🎨 Mixing **creativity** with **clean code**  
+
+---
+
+### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+My+GitHub+Universe!" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,flutter,dart,python,java,github,git,figma,vscode&theme=light" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 📱 Building Android apps that help people every day  
-- 📚 Focused on learning and improving  
-- ⚡ Enjoy working on a variety of projects  
-- 🤝 Open to collaboration  
-- 🛠 Offering services for Android Apps  
-
----
-
-### 🌐 Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitjangidroh@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev.rossyn) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitjangidroh) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rohitjangidroh) 
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rossyn) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/xxxxxxxx)
-
----
-
-### 📊 GitHub Stats
+### 🌟 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndroidWithRossyn&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndroidWithRossyn&theme=radical" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndroidWithRossyn&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
 </p>
 
 ---
 
-### 📌 Languages & Tools
+### 🎵 Fun Animations  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,html,css,javascript,dart,figma" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px" />
 </p>
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndroidWithRossyn&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+### ✨ Quote for Today  
+> 💭 *“First, solve the problem. Then, write the code.”* – John Johnson  
 
 ---
 
-### 🔥 Contribution Graph
+### 📫 Connect With Me  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AndroidWithRossyn&theme=highcontrast&hide_border=true" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
