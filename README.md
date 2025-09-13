@@ -1,7 +1,5 @@
-<!-- Elegant & Creative GitHub Profile README -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey+👋+My+name+is+Arsema+Tewodros;I'm+a+Mobile+App+Developer+📱;I'm+also+a+Web+Developer+💻;I+love+building+creative+and+elegant+projects;Unique+fact:+I+mix+art+with+code+to+make+magic!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&width=650&lines=Hey+👋+My+name+is+Arsema+Tewodros;I'm+a+Mobile+App+Developer+📱;I'm+also+a+Web+Developer+💻;I+love+building+creative+projects;Unique+fact:+I+mix+art+with+code!" alt="Typing Animation" />
 </h1>
 
 ---
@@ -28,10 +26,17 @@
 
 ---
 
+## Fun Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L0iI35rZbH9h6/giphy.gif" width="300" alt="Coding Animation"/>
+</p>
+
+---
+
 ## Featured Projects
 
 <p align="center">
-  <!-- Replace these with your actual project repos -->
   <a href="https://github.com/arsema13/Project-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-1&theme=radical&hide_border=true" />
   </a>
@@ -40,32 +45,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/arsema13/Project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-3&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/arsema13/Project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-4&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/arsema13/Project-5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-5&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/arsema13/Project-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-6&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/arsema13/Project-7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-7&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/arsema13/Project-8">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-8&theme=radical&hide_border=true" />
-  </a>
-</p>
+<!-- Repeat for Project 3 → 8 -->
 
 ---
 
@@ -73,14 +53,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,flutter&theme=light" />
-</p>
-
----
-
-## Fun Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKGMtNq0YV9j0g/giphy.gif" width="300" alt="Fun Coding Animation"/>
 </p>
 
 ---
