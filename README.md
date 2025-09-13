@@ -1,7 +1,7 @@
 <!-- Elegant Feminine GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F38EB8&center=true&vCenter=true&width=650&lines=Hey+💖+My+name+is+Arsema+Tewodros;I'm+a+Mobile+App+Developer+📱;I'm+also+a+Web+Developer+💻;I+love+building+creative+%26+elegant+projects+✨;Unique+fact+🌸:+I+mix+art+with+code+to+make+magic!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F38EB8&center=true&vCenter=true&width=650&lines=Hey+💖+My+name+is+Arsema+Tewodros;I'm+a+Mobile+App+Developer+📱;I'm+also+a+Web+Developer+💻;I+love+building+creative+%26+elegant+projects+✨;Unique+fact+🌸:+I+mix+art+with+code+to+make+magic!" alt="Typing Animation" />
 </h1>
 
 ---
@@ -28,16 +28,10 @@
 
 ---
 
-## 🌸 Unique Animations  
+## 🌸 Cute Animation  
 
 <p align="center">
-  <!-- Contribution Snake -->
-  <img src="https://github.com/arsema13/arsema13/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-<p align="center">
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=arsema13&label=✨+Profile+Views&color=F38EB8&style=for-the-badge" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/3o7abKGMtNq0YV9j0g/giphy.gif" width="300" alt="Cute Coding Animation"/>
 </p>
 
 ---
@@ -45,39 +39,38 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <!-- Replace "Project-Name-X" with your actual repo links -->
-  <a href="https://github.com/arsema13/Project-Name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-1&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  <a href="https://github.com/arsema13/Project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-1&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
   </a>
-  <a href="https://github.com/arsema13/Project-Name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-2&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/arsema13/Project-Name-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-3&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
-  </a>
-  <a href="https://github.com/arsema13/Project-Name-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-4&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  <a href="https://github.com/arsema13/Project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-2&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/arsema13/Project-Name-5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-5&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  <a href="https://github.com/arsema13/Project-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-3&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
   </a>
-  <a href="https://github.com/arsema13/Project-Name-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-6&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  <a href="https://github.com/arsema13/Project-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-4&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/arsema13/Project-Name-7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-7&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  <a href="https://github.com/arsema13/Project-5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-5&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
   </a>
-  <a href="https://github.com/arsema13/Project-Name-8">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-Name-8&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  <a href="https://github.com/arsema13/Project-6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-6&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arsema13/Project-7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-7&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
+  </a>
+  <a href="https://github.com/arsema13/Project-8">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-8&theme=rose_pine&hide_border=true&title_color=F38EB8&icon_color=F38EB8" />
   </a>
 </p>
 
