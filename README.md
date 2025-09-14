@@ -1,94 +1,57 @@
-<!-- Elegant & Creative GitHub Profile README -->
+<!-- Elegant Animated GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey+👋+My+name+is+Arsema+Tewodros;I'm+a+Mobile+App+Developer+📱;I'm+also+a+Web+Developer+💻;I+love+building+creative+and+elegant+projects;Unique+fact:+I+mix+art+with+code+to+make+magic!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4EF0F7&center=true&vCenter=true&width=600&lines=Hello+👋+I'm+Arsema+Tewodros;Web+Developer+💻;Mobile+App+Developer📱;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </h1>
 
 ---
 
-## About Me
-
-- Passionate about **clean design + powerful code**  
-- Love solving problems with **creative coding approaches**  
-- Currently working on **mobile apps** and **modern web platforms**  
-- Believe in **coding as an art form**  
+### 👩‍💻 About Me  
+✨ Passionate about **coding & problem-solving**  
+🌱 Currently learning **Flutter & Full-Stack Development**  
+💡 Love turning **ideas into elegant applications**  
+🎨 Mixing **creativity** with **clean code**  
 
 ---
 
-## GitHub Stats
+### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsema13&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=arsema13&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsema13&theme=react&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,flutter,dart,python,java,github,git,figma,vscode&theme=light" />
 </p>
 
 ---
 
-## Featured Projects
+### 🌟 GitHub Stats  
 
 <p align="center">
-  <!-- Replace these with your actual project repos -->
-  <a href="https://github.com/arsema13/Project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/arsema13/Project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-2&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/arsema13/Project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-3&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/arsema13/Project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-4&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/arsema13/Project-5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-5&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/arsema13/Project-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-6&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/arsema13/Project-7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-7&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/arsema13/Project-8">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-8&theme=radical&hide_border=true" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
 </p>
 
 ---
 
-## Tech Stack
+### 🎵 Fun Animations  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,flutter&theme=light" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px" />
 </p>
 
 ---
 
-## Fun Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKGMtNq0YV9j0g/giphy.gif" width="300" alt="Fun Coding Animation"/>
-</p>
+### ✨ Quote for Today  
+> 💭 *“First, solve the problem. Then, write the code.”* – John Johnson  
 
 ---
 
-## Connect With Me
+### 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/arsema13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
