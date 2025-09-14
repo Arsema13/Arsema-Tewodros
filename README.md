@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Arsema!
 
 ### 💻
 
@@ -25,7 +25,7 @@ I'm a passionate developer specializing in **[Your Primary Technology, e.g., Jav
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
-| [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/your-username) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/your-username) |
+| [![Arsema13's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=dark)](https://github.com/Arsema13) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=dark)](https://github.com/Arsema13) |
 
 </div>
 
@@ -35,7 +35,7 @@ I'm a passionate developer specializing in **[Your Primary Technology, e.g., Jav
 
 <div align="center">
 
-[![your-username's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arsema13's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
