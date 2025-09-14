@@ -1,9 +1,11 @@
-<!-- GitHub Profile README -->
+<!-- GitHub Profile README for Arsema13 -->
 
+<!-- 1. Introduction Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=Hi+there!+I+am+Arsema13;I+am+a+Web+Developer;Building+Web+%26+Mobile+Apps+with+Passion" alt="Typing SVG"/>
 </p>
 
+<!-- 2. About Me -->
 <h2 align="center">
   <span style="color:#00FFFF;">✨ About Me ✨</span>
 </h2>
@@ -13,6 +15,7 @@
   I am a <strong>Web & Mobile App Developer</strong> passionate about building elegant and modern applications. 🚀
 </p>
 
+<!-- 3. Tech Stack -->
 <h2 align="center">
   <span style="color:#FF69B4;">💻 Tech Stack 💻</span>
 </h2>
@@ -25,6 +28,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
+<!-- 4. Contact Info -->
 <h2 align="center">
   <span style="color:#00FF00;">📬 Contact Me 📬</span>
 </h2>
@@ -35,6 +39,7 @@
   <a href="https://twitter.com/Arsema13" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
+<!-- 5. Status & Activity Typing -->
 <h2 align="center">
   <span style="color:#FFD700;">⚡ Status & Activity ⚡</span>
 </h2>
@@ -43,6 +48,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF00FF&center=true&width=500&lines=Building+web+apps+and+mobile+apps;Learning+new+tech+every+day;Love+to+code+and+create+projects" alt="Status Typing"/>
 </p>
 
+<!-- 6. GitHub Stats & Languages -->
 <h2 align="center">
   <span style="color:#00FFFF;">📊 GitHub Stats 📊</span>
 </h2>
@@ -52,6 +58,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=tokyonight"/>
 </p>
 
+<!-- 7. Fun Glow Animation -->
 <h2 align="center">
   <span style="color:#00FFFF;">🌟 Fun Glow Animation 🌟</span>
 </h2>
