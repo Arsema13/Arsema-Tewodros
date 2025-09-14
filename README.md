@@ -1,68 +1,94 @@
-<!-- GitHub Profile README for Arsema13 -->
+<!-- Elegant & Creative GitHub Profile README -->
 
-<!-- 1. Introduction Typing Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey+👋+My+name+is+Arsema+Tewodros;I'm+a+Mobile+App+Developer+📱;I'm+also+a+Web+Developer+💻;I+love+building+creative+and+elegant+projects;Unique+fact:+I+mix+art+with+code+to+make+magic!" alt="Typing Animation" />
+</h1>
+
+---
+
+## About Me
+
+- Passionate about **clean design + powerful code**  
+- Love solving problems with **creative coding approaches**  
+- Currently working on **mobile apps** and **modern web platforms**  
+- Believe in **coding as an art form**  
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=Hi+there!+I+am+Arsema13;I+am+a+Web+Developer;Building+Web+%26+Mobile+Apps+with+Passion" alt="Typing SVG"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arsema13&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=arsema13&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<!-- 2. About Me -->
-<h2 align="center">
-  <span style="color:#00FFFF;">✨ About Me ✨</span>
-</h2>
-
 <p align="center">
-  👋 Hello! I’m <strong>Arsema13</strong>.<br>
-  I am a <strong>Web & Mobile App Developer</strong> passionate about building elegant and modern applications. 🚀
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsema13&theme=react&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-<!-- 3. Tech Stack -->
-<h2 align="center">
-  <span style="color:#FF69B4;">💻 Tech Stack 💻</span>
-</h2>
+---
+
+## Featured Projects
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <!-- Replace these with your actual project repos -->
+  <a href="https://github.com/arsema13/Project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-1&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/arsema13/Project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-2&theme=radical&hide_border=true" />
+  </a>
 </p>
 
-<!-- 4. Contact Info -->
-<h2 align="center">
-  <span style="color:#00FF00;">📬 Contact Me 📬</span>
-</h2>
-
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/Arsema13" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Arsema13" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/arsema13/Project-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-3&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/arsema13/Project-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-4&theme=radical&hide_border=true" />
+  </a>
 </p>
 
-<!-- 5. Status & Activity Typing -->
-<h2 align="center">
-  <span style="color:#FFD700;">⚡ Status & Activity ⚡</span>
-</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF00FF&center=true&width=500&lines=Building+web+apps+and+mobile+apps;Learning+new+tech+every+day;Love+to+code+and+create+projects" alt="Status Typing"/>
+  <a href="https://github.com/arsema13/Project-5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-5&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/arsema13/Project-6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-6&theme=radical&hide_border=true" />
+  </a>
 </p>
 
-<!-- 6. GitHub Stats & Languages -->
-<h2 align="center">
-  <span style="color:#00FFFF;">📊 GitHub Stats 📊</span>
-</h2>
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/arsema13/Project-7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-7&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/arsema13/Project-8">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arsema13&repo=Project-8&theme=radical&hide_border=true" />
+  </a>
 </p>
 
-<!-- 7. Fun Glow Animation -->
-<h2 align="center">
-  <span style="color:#00FFFF;">🌟 Fun Glow Animation 🌟</span>
-</h2>
+---
+
+## Tech Stack
 
 <p align="center">
-  <span style="font-size:2.5rem; color:#00FFFF; text-shadow: 0 0 5px #00FFFF, 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 40px #00FFFF;">Arsema13</span>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,flutter&theme=light" />
+</p>
+
+---
+
+## Fun Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKGMtNq0YV9j0g/giphy.gif" width="300" alt="Fun Coding Animation"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/arsema13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
