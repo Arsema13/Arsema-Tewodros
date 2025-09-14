@@ -1,11 +1,10 @@
-<h1 align="center">🌸 <span style="color:#ff69b4; text-shadow: 0 0 10px #ffb6c1, 0 0 20px #ff69b4;">Arsema Tewodros</span> 🌸</h1>
+<h1 align="center">🌸 Hi, I'm Arsema Tewodros 🌸</h1>
 <h3 align="center">👩‍💻 Web & Full-Stack Developer | Flutter • PHP • MySQL • HTML • CSS</h3>
 
 ---
 
-<div align="center" style="border: 3px solid #ff69b4; border-radius: 15px; padding: 15px; box-shadow: 0 0 20px #ff69b4, 0 0 40px #ffb6c1;">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=FF69B4&background=00000000&center=true&vCenter=true&width=750&lines=Hi!+I'm+Arsema+Tewodros+🌸;I+Build+Web+%26+Mobile+Apps+👩‍💻;Turning+Ideas+into+Reality+🚀;Check+My+Portfolio+Below+💖)](https://git.io/typing-svg)
-</div>
+### 💫 My Elegant Intro (Typing Animation)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=FF69B4&background=00000000&center=true&vCenter=true&width=750&lines=Hi!+I'm+Arsema+Tewodros+🌸;I+Build+Web+%26+Mobile+Apps+👩‍💻;Turning+Ideas+into+Reality+🚀;Check+My+Portfolio+Below+💖)](https://git.io/typing-svg)
 
 ---
 
@@ -19,34 +18,51 @@
 
 ---
 
-### 💻 Projects & Highlights
+### 🛠️ My Tech Palette
 <p align="center">
-  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz-App-ff69b4?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-ffb6c1?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News-App-f06292?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass-Menu-Website-ff69b4?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/Weather-App"><img src="https://img.shields.io/badge/Weather-App-ffb6c1?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://img.shields.io/badge/FunFact-App-f06292?style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/HTML5-ff6f61?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-4db6ac?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-9c27b0?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-5c6bc0?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-f06292?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+---
+
+### 💻 My Projects
+<p align="center">
+  <a href="https://github.com/Arsema13/Project1"><img src="https://img.shields.io/badge/Project1-CoolApp-ff69b4?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Project2"><img src="https://img.shields.io/badge/Project2-AwesomeWeb-ffb6c1?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Project3"><img src="https://img.shields.io/badge/Project3-FlutterApp-f06292?style=for-the-badge"/></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=tokyonight&count_private=true&title_color=ff69b4&icon_color=f48fb1&text_color=f8f8f2" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsema13&theme=tokyonight&ring=ff69b4&fire=f48fb1&currStreakLabel=f48fb1&sideNums=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=dracula&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsema13&theme=dracula" height="180"/>
 </p>
 
 ---
 
 ### 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=react-dark&area=true&hide_border=false" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=dracula&area=true" width="100%"/>
 </p>
 
 ---
 
-### 🌟 Connect With Me
+### ✨ Attention-Grabbing Flair
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="250"/>
+  <br/>
+  <em>🌸 Elegant, Creative, & Ready to Build the Future 💖</em>
+</p>
+
+---
+
+### 🌍 Connect With Me
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-ff80ab?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-b39ddb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -56,9 +72,6 @@
 
 ---
 
-### 🎀 Ending Flair
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
-  <br/>
-  <em>💖 Elegant, Creative & Ready to Build Amazing Things 🌸</em>
+  <em>💖 Let's create something amazing together! 🌸</em>
 </p>
