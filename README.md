@@ -1,9 +1,9 @@
 <h1 align="center">
-   Hi, I'm <span style="color:#ff4d88; text-shadow: 0 0 15px #ff4d88;">Arsema Tewodros</span> 
+  🌹 Hi, I'm <span style="color:#ff4d88;">Arsema Tewodros</span> 🌹
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&vCenter=true&width=600&lines=Mobile+%26+Fullstack+Developer;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&vCenter=true&width=600&lines=Hi!+I'm+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+🌸" alt="Typing Animation"/>
 </p>
 
 ---
