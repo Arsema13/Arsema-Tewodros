@@ -29,7 +29,7 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Skyline"/>
 </p>
 
-> ⚡ **Note:** The Skyline image will appear once the GitHub Action workflow runs successfully.  
+> ⚡ **Note:** The Skyline will appear after you run the workflow in `.github/workflows/profile-3d.yml`.  
 
 ---
 
