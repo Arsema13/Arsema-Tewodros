@@ -1,9 +1,7 @@
 <h1 align="center">🌸 Hi, I'm Arsema Tewodros 🌸</h1>
 <h3 align="center">👩‍💻 Web & Full-Stack Developer | Flutter • PHP • MySQL • HTML • CSS</h3>
 
----
 
-### 💫 My Elegant Intro (Typing Animation)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=FF69B4&background=00000000&center=true&vCenter=true&width=750&lines=Hi!+I'm+Arsema+Tewodros+🌸;I+Build+Web+%26+Mobile+Apps+👩‍💻;Turning+Ideas+into+Reality+🚀;Check+My+Portfolio+Below+💖)](https://git.io/typing-svg)
 
 ---
