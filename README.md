@@ -36,11 +36,20 @@
 </p>
 
 <h2 align="center">
-  <span style="color:#FFD700;">⚡ Fun Status & Features ⚡</span>
+  <span style="color:#FFD700;">⚡ Status & Activity ⚡</span>
 </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF00FF&center=true&width=500&lines=Building+web+apps+and+mobile+apps;Learning+new+tech+every+day;Love+to+code+and+create+projects" alt="Status Typing"/>
+</p>
+
+<h2 align="center">
+  <span style="color:#00FFFF;">📊 GitHub Stats 📊</span>
+</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=tokyonight"/>
 </p>
 
 <h2 align="center">
@@ -50,4 +59,3 @@
 <p align="center">
   <span style="font-size:2.5rem; color:#00FFFF; text-shadow: 0 0 5px #00FFFF, 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 40px #00FFFF;">Arsema13</span>
 </p>
-
