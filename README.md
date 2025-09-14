@@ -16,6 +16,18 @@
 
 ---
 
+### 🛠️ My Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-FF4D88?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-FF80AB?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-FF4D88?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-FF80AB?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-FF4D88?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF80AB?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="180px"/>
@@ -29,28 +41,28 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Skyline"/>
 </p>
 
-> ⚡ **Note:** The Skyline will appear after you run the workflow in `.github/workflows/profile-3d.yml`.  
+> ⚡ **Note:** Skyline appears after the workflow in `.github/workflows/profile-3d.yml` runs successfully.
 
 ---
 
-### 🛠️ Projects
+### 💻 Projects
 <p align="center">
-  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz-App-ff4d88?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-ff80ab?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News-App-f06292?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass-Menu-Website-ff4d88?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/Weather-App"><img src="https://img.shields.io/badge/Weather-App-ff80ab?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://img.shields.io/badge/FunFact-App-f06292?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-FF80AB?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News-App-F06292?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass-Menu-Website-FF4D88?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Weather-App"><img src="https://img.shields.io/badge/Weather-App-FF80AB?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://img.shields.io/badge/FunFact-App-F06292?style=for-the-badge"/></a>
 </p>
 
 ---
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-ff4d88?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-ff4d88?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-ff4d88?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-ff4d88?style=for-the-badge&logo=web&logoColor=white"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF4D88?style=for-the-badge&logo=web&logoColor=white"></a>
 </p>
 
 ---
