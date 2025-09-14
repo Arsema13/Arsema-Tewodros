@@ -1,57 +1,64 @@
-<!-- Elegant Animated GitHub Profile README -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4EF0F7&center=true&vCenter=true&width=600&lines=Hello+👋+I'm+Arsema+Tewodros;Web+Developer+💻;Mobile+App+Developer📱;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</h1>
+<h1 align="center">🌸 <span style="color:#ff69b4; text-shadow: 0 0 10px #ffb6c1, 0 0 20px #ff69b4;">Arsema Tewodros</span> 🌸</h1>
+<h3 align="center">👩‍💻 Web & Full-Stack Developer | Flutter • PHP • MySQL • HTML • CSS</h3>
 
 ---
 
-### 👩‍💻 About Me  
-✨ Passionate about **coding & problem-solving**  
-🌱 Currently learning **Flutter & Full-Stack Development**  
-💡 Love turning **ideas into elegant applications**  
-🎨 Mixing **creativity** with **clean code**  
+<div align="center" style="border: 3px solid #ff69b4; border-radius: 15px; padding: 15px; box-shadow: 0 0 20px #ff69b4, 0 0 40px #ffb6c1;">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=FF69B4&background=00000000&center=true&vCenter=true&width=750&lines=Hi!+I'm+Arsema+Tewodros+🌸;I+Build+Web+%26+Mobile+Apps+👩‍💻;Turning+Ideas+into+Reality+🚀;Check+My+Portfolio+Below+💖)](https://git.io/typing-svg)
+</div>
 
 ---
 
-### 🛠️ Tech Stack  
+### 🌸 About Me
+- 💖 Passionate about **coding & creativity**  
+- 🌐 Skilled in **HTML, CSS, PHP, MySQL**  
+- 📱 Exploring **Flutter** for mobile apps  
+- 🎀 Love blending **tech + design** to create unique experiences  
+- ✨ Fun fact: Coffee + Code = Perfect Day ☕💻  
+- 🔗 [**Visit my Portfolio**](https://your-portfolio-link.com)  
 
+---
+
+### 💻 Projects & Highlights
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,flutter,dart,python,java,github,git,figma,vscode&theme=light" />
+  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz-App-ff69b4?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-ffb6c1?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News-App-f06292?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass-Menu-Website-ff69b4?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Weather-App"><img src="https://img.shields.io/badge/Weather-App-ffb6c1?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://img.shields.io/badge/FunFact-App-f06292?style=for-the-badge"/></a>
 </p>
 
 ---
 
-### 🌟 GitHub Stats  
-
+### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=tokyonight&count_private=true&title_color=ff69b4&icon_color=f48fb1&text_color=f8f8f2" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsema13&theme=tokyonight&ring=ff69b4&fire=f48fb1&currStreakLabel=f48fb1&sideNums=ffffff" height="180"/>
 </p>
 
 ---
 
-### 🎵 Fun Animations  
-
+### 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=react-dark&area=true&hide_border=false" width="100%"/>
 </p>
 
 ---
 
-### ✨ Quote for Today  
-> 💭 *“First, solve the problem. Then, write the code.”* – John Johnson  
+### 🌟 Connect With Me
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-ff80ab?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-b39ddb?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-ffb74d?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=web&logoColor=white"/></a>
+</p>
 
 ---
 
-### 📫 Connect With Me  
-
+### 🎀 Ending Flair
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
+  <br/>
+  <em>💖 Elegant, Creative & Ready to Build Amazing Things 🌸</em>
 </p>
