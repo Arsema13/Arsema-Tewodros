@@ -1,104 +1,53 @@
-# Hello, I'm Arsema! 💖
-
-### 🌸 Building beautiful things, one line of code at a time...
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Arsema13/Arsema13/main/Assets/typewriter.gif" alt="I'm a Web Developer and a Mobile App Developer" />
-</div>
-
----
-
-### About Me
-
-I'm a passionate developer who loves bringing creative ideas to life through elegant code. My expertise lies in **[Your Primary Technology]**, and I'm always eager to learn and grow. I believe in writing code that is not only functional but also beautiful.
-
-- 🔭 I’m currently building **[Your Current Project]**
-- 🌱 I’m currently exploring **[Something New, e.g., AI in Flutter, 3D web design]**
-- 👯 I’m looking to collaborate on open-source projects with a positive impact.
-- ✨ A fun fact about me: **[A fun fact about you]**
-
----
-
-### My Creations ✨
-
-> ### 🌸 **1. [Project 1 Title]**
-> _[A brief and elegant description of your project.]_
->
-> **Technologies:** `[Tech1]` `[Tech2]` `[Tech3]`
-> ➡️ **[Link to Project 1 on GitHub](https://github.com/Arsema13/[Your-Project-Repo])**
-
-> ### 🌸 **2. [Project 2 Title]**
-> _[A brief and elegant description of your project.]_
->
-> **Technologies:** `[Tech1]` `[Tech2]`
-> ➡️ **[Link to Project 2 on GitHub](https://github.com/Arsema13/[Your-Project-Repo])**
-
-> ### 🌸 **3. [Project 3 Title]**
-> _[A brief and elegant description of your project.]_
->
-> **Technologies:** `[Tech1]` `[Tech2]` `[Tech3]`
-> ➡️ **[Link to Project 3 on GitHub](https://github.com/Arsema13/[Your-Project-Repo])**
-
-> ### 🌸 **4. [Project 4 Title]**
-> _[A brief and elegant description of your project.]_
->
-> **Technologies:** `[Tech1]` `[Tech2]`
-> ➡️ **[Link to Project 4 on GitHub](https://github.com/Arsema13/[Your-Project-Repo])**
-
-> ### 🌸 **5. [Project 5 Title]**
-> _[A brief and elegant description of your project.]_
->
-> **Technologies:** `[Tech1]` `[Tech2]` `[Tech3]`
-> ➡️ **[Link to Project 5 on GitHub](https://github.com/Arsema13/[Your-Project-Repo])**
-
----
-
-### My Coding Journey 💖
-
-<div align="center">
+<!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{Arsema13}/count.svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=Hi+there!+I+am+Arsema13;Web+%26+Mobile+App+Developer;Passionate+about+creating+beautiful+apps" alt="Typing SVG"/>
 </p>
 
+<h2 align="center">
+  <span style="color:#00FFFF;">✨ About Me ✨</span>
+</h2>
+
 <p align="center">
-  <a href="https://github.com/Arsema13?tab=repositories">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose&hide_border=true&border_radius=15" />
-  </a>
-  <a href="https://github.com/Arsema13">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=rose&hide_border=true" />
-  </a>
+  👋 Hello! I’m <strong>Arsema13</strong>, a Web & Mobile App Developer.<br>
+  I love solving problems and building modern, elegant applications. 🚀
 </p>
 
+<h2 align="center">
+  <span style="color:#FF69B4;">💻 Tech Stack 💻</span>
+</h2>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/wakatime?username=YOUR_WAKATIME_USERNAME&theme=2077&hide_border=true&style=stats" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
+<h2 align="center">
+  <span style="color:#00FF00;">📬 Contact Me 📬</span>
+</h2>
+
 <p align="center">
-  </p>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/Arsema13" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Arsema13" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
-</div>
+<h2 align="center">
+  <span style="color:#FFD700;">⚡ Fun Status & Features ⚡</span>
+</h2>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF00FF&center=true&width=500&lines=Building+web+apps+and+mobile+apps;Learning+new+tech+every+day;Love+to+code+and+create+projects" alt="Status Typing"/>
+</p>
 
-### Connect with me 💖
+<h2 align="center">
+  <span style="color:#00FFFF;">🌟 Fun Glow Animation 🌟</span>
+</h2>
 
-<div align="center">
+<p align="center">
+  <span style="font-size:2.5rem; color:#00FFFF; text-shadow: 0 0 5px #00FFFF, 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 40px #00FFFF;">Arsema13</span>
+</p>
 
-[![My LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your-LinkedIn-Username])
-[![My Website](https://img.shields.io/badge/-Website-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white)](https://[Your-Website].vercel.app)
-[![My Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
-</div>
-
----
-
-### My Coding Activity 🚀
-
-<div align="center">
-  [![Arsema13's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
----
-
-> _"In a world of algorithms and data, let's create a little bit of magic."_ ✨
