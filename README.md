@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=Hi+there!+I+am+Arsema13;Web+%26+Mobile+App+Developer;Passionate+about+creating+beautiful+apps" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=Hi+there!+I+am+Arsema13;I+am+a+Web+Developer;Building+Web+%26+Mobile+Apps+with+Passion" alt="Typing SVG"/>
 </p>
 
 <h2 align="center">
@@ -9,8 +9,8 @@
 </h2>
 
 <p align="center">
-  👋 Hello! I’m <strong>Arsema13</strong>, a Web & Mobile App Developer.<br>
-  I love solving problems and building modern, elegant applications. 🚀
+  👋 Hello! I’m <strong>Arsema13</strong>.<br>
+  I am a <strong>Web & Mobile App Developer</strong> passionate about building elegant and modern applications. 🚀
 </p>
 
 <h2 align="center">
