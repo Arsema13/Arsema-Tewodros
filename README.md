@@ -2,7 +2,7 @@
 
 ### 💻
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer.;Passionate+about+Open+Source.;Let's+build+something+great+together!%3B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Web+Developer.;Mobile+App+Developer.)
 
 ---
 
