@@ -1,4 +1,4 @@
-<h1 align="center">🌹 Hi, I'm Arsema Tewodros 🌹</h1>
+<h1 align="center"> Hi, I'm Arsema Tewodros </h1>
 <h3 align="center">👩‍💻 Web & Mobile App Developer | Full-Stack | Flutter • PHP • MySQL • HTML • CSS • JavaScript</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=E91E63&background=00000000&center=true&vCenter=true&width=750&lines=Hi!+I'm+Arsema+Tewodros+🌹;I+Build+Web+%26+Mobile+Apps+👩‍💻;Turning+Ideas+into+Reality+🚀;Explore+My+Projects+Below+⚡)](https://git.io/typing-svg)
@@ -46,7 +46,7 @@
 
 ---
 
-### 🔥 Contribution Graph
+###  Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=rose_pine&area=true" width="100%"/>
 </p>
@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <em>🌹 Keep coding. Keep building. Keep growing. 🚀</em>
+  <em> Keep coding. Keep building. Keep growing. 🚀</em>
 </p>
