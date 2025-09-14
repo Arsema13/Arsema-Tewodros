@@ -1,16 +1,52 @@
-<h1 align="center">Hi, my name is Arsema Tewodros</h1>
-<p align="center">
-I'm a <b>Mobile App Developer</b> and a <b>Web Developer.</b>
-</p>
+# Hi there 👋, I'm [Your Name]!
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DArsema13%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D1f2937%26count_private%3Dtrue" alt="Arsema's GitHub Stats" />
-</p>
+### 💻
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3DArsema13%26theme%3Ddark%26hide_border%3Dtrue%26background%3D1f2937%26ring%3Dbf40bf%26side_most_ring%3Dbf40bf%26currStreakNum%3Dbf40bf%26fire%3Dbf40bf%26stroke%3Dbf40bf" alt="Arsema's GitHub Streak" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer.;Passionate+about+Open+Source.;Let's+build+something+great+together!%3B)
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DArsema13%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D1f2937%26title_color%3Dbf40bf" alt="Arsema's Top Languages" />
-</p>
+---
+
+### About Me
+
+I'm a passionate developer specializing in **[Your Primary Technology, e.g., JavaScript, Python, C++]**. I love building innovative and scalable applications. My interests include **[Your Interests, e.g., machine learning, web development, cloud computing]**.
+
+- 🔭 I’m currently working on **[Your Current Project]**
+- 🌱 I’m currently learning **[Something New, e.g., Go, Docker, Kubernetes]**
+- 👯 I’m looking to collaborate on **[Type of Project]**
+- 💬 Ask me about **[Your Expertise, e.g., React, API design, DevOps]**
+- 📫 How to reach me: **[Your Email Address or Social Media Link]**
+- ⚡ Fun fact: **[A fun fact about you]**
+
+---
+
+### My GitHub Stats
+
+<div align="center">
+
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/your-username) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/your-username) |
+
+</div>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+[![your-username's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### GitHub Status
+
+Stay updated on the operational status of GitHub's services.
+
+[![GitHub Status](https://badgen.net/github/status/github)](https://www.githubstatus.com)
+
+---
+
+> _"The greatest glory in living lies not in never falling, but in rising every time we fall."_ - Nelson Mandela
