@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <!-- Typing animation: note we avoid apostrophes and URL-encode the emoji -->
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&vCenter=true&width=600&lines=Hi!+I+am+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+%F0%9F%8C%B8" alt="Typing Animation"/>
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&vCenter=true&width=600&lines=Hi!+I+am+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+🌸" alt="Typing Animation"/>
 </p>
 
 ---
@@ -34,16 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="180px"/>
   <img src="https://streak-stats.demolab.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="180px"/>
 </p>
-
----
-
-### 🌌 My GitHub Skyline
-<p align="center">
-  <!-- This file appears after the profile-3d workflow runs and commits the SVG -->
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Skyline"/>
-</p>
-
-> ⚡ **Note:** Skyline appears after the workflow in `.github/workflows/profile-3d.yml` runs successfully and the file `profile-3d-contrib/profile-night-rainbow.svg` exists in the repo.
 
 ---
 
