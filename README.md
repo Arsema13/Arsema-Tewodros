@@ -1,6 +1,7 @@
 <h1 align="center">
-   Hi,  <span style="color:#ff4d88;">Everyone</span> 
+   👋 Welcome to My GitHub World <span style="color:#ff4d88;"></span>
 </h1>
+
 
 <p align="center" style="border: 4px solid #ff4d88; border-radius: 15px; padding: 15px; display: inline-block; box-shadow: 0 0 20px #ff4d88, 0 0 40px #ff80ab;">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&width=600&lines=Hi!+I+am+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+%F0%9F%8C%B8" alt="Typing Animation"/>
@@ -8,7 +9,7 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 - 🌸 Passionate **Web & Mobile Developer**  
 - 💻 Skilled in **HTML, CSS, PHP, MySQL, Flutter, JavaScript**  
 - 🚀 Always learning & building creative projects  
@@ -79,5 +80,5 @@
 ---
 
 <p align="center">
-  <em>💖 Elegant, Creative & Ready to Build Amazing Projects 🌸</em>
+  <em> Elegant, Creative & Ready to Build Amazing Projects 🌸</em>
 </p>
