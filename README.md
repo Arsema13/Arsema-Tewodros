@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&vCenter=true&width=600&lines=Hi!+I'm+Arsema+Tewodros;I'm+a+Web+Developer;I'm+a+Mobile+App+Developer;Always+Learning+%26+Coding+🌸" alt="Typing Animation"/>
+  <!-- Typing animation: note we avoid apostrophes and URL-encode the emoji -->
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&vCenter=true&width=600&lines=Hi!+I+am+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+%F0%9F%8C%B8" alt="Typing Animation"/>
 </p>
 
 ---
@@ -18,12 +19,12 @@
 
 ### 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FF4D88?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-FF80AB?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F06292?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-FF4D88?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-FF80AB?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-F06292?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-FF4D88?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-FF80AB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F06292?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-FF4D88?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-FF80AB?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Flutter-F06292?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
 ---
@@ -38,31 +39,32 @@
 
 ### 🌌 My GitHub Skyline
 <p align="center">
+  <!-- This file appears after the profile-3d workflow runs and commits the SVG -->
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Skyline"/>
 </p>
 
-> ⚡ **Note:** Skyline appears after the workflow in `.github/workflows/profile-3d.yml` runs successfully.
+> ⚡ **Note:** Skyline appears after the workflow in `.github/workflows/profile-3d.yml` runs successfully and the file `profile-3d-contrib/profile-night-rainbow.svg` exists in the repo.
 
 ---
 
 ### 💻 Projects
 <p align="center">
-  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz--App-FF4D88?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI--Calculator-FF80AB?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News--App-F06292?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass--Menu--Website-FF4D88?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/Weather-App"><img src="https://img.shields.io/badge/Weather--App-FF80AB?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://img.shields.io/badge/FunFact--App-F06292?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge" alt="Quiz App"/></a>
+  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-FF80AB?style=for-the-badge" alt="BMI"/></a>
+  <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News-App-F06292?style=for-the-badge" alt="News"/></a>
+  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass-Menu-Website-FF4D88?style=for-the-badge" alt="Compass Menu"/></a>
+  <a href="https://github.com/Arsema13/Weather-App"><img src="https://img.shields.io/badge/Weather-App-FF80AB?style=for-the-badge" alt="Weather"/></a>
+  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://img.shields.io/badge/FunFact-App-F06292?style=for-the-badge" alt="FunFact"/></a>
 </p>
 
 ---
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF4D88?style=for-the-badge&logo=web&logoColor=white"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF4D88?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
