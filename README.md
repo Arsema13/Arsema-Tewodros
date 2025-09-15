@@ -2,18 +2,8 @@
    Hi,  <span style="color:#ff4d88;">Everyone</span> 
 </h1>
 
-<p align="center">
-  <span style="display:inline-block; border-radius:15px; padding:10px; margin:5px; box-shadow: 0 0 15px #ffb6c1;">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&width=600&lines=Hi!+I+am+Arsema+Tewodros" alt="Typing Animation Line 1"/>
-  </span>
-  <br/>
-  <span style="display:inline-block; border-radius:15px; padding:10px; margin:5px; box-shadow: 0 0 15px #ffb6c1;">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&width=600&lines=I+Build+Web+%26+Mobile+Apps" alt="Typing Animation Line 2"/>
-  </span>
-  <br/>
-  <span style="display:inline-block; border-radius:15px; padding:10px; margin:5px; box-shadow: 0 0 15px #ffb6c1;">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&width=600&lines=Always+Learning+%26+Coding+%F0%9F%8C%B8" alt="Typing Animation Line 3"/>
-  </span>
+<p align="center" style="border: 4px solid #ff4d88; border-radius: 15px; padding: 15px; display: inline-block; box-shadow: 0 0 20px #ff4d88, 0 0 40px #ff80ab;">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&width=600&lines=Hi!+I+am+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+%F0%9F%8C%B8" alt="Typing Animation"/>
 </p>
 
 ---
