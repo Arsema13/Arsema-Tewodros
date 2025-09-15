@@ -9,11 +9,13 @@
 
 ---
 
-###  About Me
+### 💫 About Me
 - 🌸 Passionate **Web & Mobile Developer**  
 - 💻 Skilled in **HTML, CSS, PHP, MySQL, Flutter, JavaScript**  
 - 🚀 Always learning & building creative projects  
 - 🎀 Love blending **tech + design** to create unique solutions  
+- 🔗 Check out my **[Portfolio](https://your-portfolio-link.com)**   
+
 
 ---
 
