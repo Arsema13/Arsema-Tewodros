@@ -44,6 +44,20 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arsema13&theme=rose_pine&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 💭 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev Quote"/>
+</p>
+
+---
+
 ### 💻 Projects
 <p align="center">
   <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge" alt="Quiz App"/></a>
@@ -61,8 +75,10 @@
   <a href="mailto:arsematewodros123@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
- 
+</p>
 
 ---
 
-
+<p align="center">
+  <em>💖 Elegant, Creative & Ready to Build Amazing Projects 🌸</em>
+</p>
