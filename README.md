@@ -51,7 +51,7 @@
 
 ---
 
-### 💭 Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev Quote"/>
 </p>
@@ -60,7 +60,7 @@
 
 ### 💻 Projects
 <p align="center">
-  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge" alt="Quiz App"/></a>
+  <a href="https://github.com/Arsema13/Quiz-App"><img src="[https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge](https://github.com/Arsema13/flutter_quiz_app.git)" alt="Quiz App"/></a>
   <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-FF80AB?style=for-the-badge" alt="BMI"/></a>
   <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News-App-F06292?style=for-the-badge" alt="News"/></a>
   <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass-Menu-Website-FF4D88?style=for-the-badge" alt="Compass Menu"/></a>
@@ -70,15 +70,15 @@
 
 ---
 
-### 🌍 Connect With Me
+### 🌍 Contact
 <p align="center">
   <a href="mailto:arsematewodros123@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/[your-link](https://www.linkedin.com/in/arsema-tewodros-783b41370?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNqyfm6NrSkqh0tmXP2NN3g%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <em> Elegant, Creative & Ready to Build Amazing Projects 🌸</em>
+  <em> Arsema Tewodros 2025 🌸</em>
 </p>
