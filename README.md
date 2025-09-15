@@ -37,6 +37,13 @@
 
 ---
 
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=rose_pine&hide_border=true&bg_color=1A1B27&line=ff4d88&point=ff80ab&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
 ### 💻 Projects
 <p align="center">
   <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge" alt="Quiz App"/></a>
