@@ -60,12 +60,14 @@
 
 ### 💻 Projects
 <p align="center">
-  <a href="https://github.com/Arsema13/Quiz-App"><img src="[https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge](https://github.com/Arsema13/flutter_quiz_app.git)" alt="Quiz App"/></a>
-  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-FF80AB?style=for-the-badge" alt="BMI"/></a>
-  <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News-App-F06292?style=for-the-badge" alt="News"/></a>
-  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass-Menu-Website-FF4D88?style=for-the-badge" alt="Compass Menu"/></a>
-  <a href="https://github.com/Arsema13/Weather-App"><img src="https://img.shields.io/badge/Weather-App-FF80AB?style=for-the-badge" alt="Weather"/></a>
-  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://img.shields.io/badge/FunFact-App-F06292?style=for-the-badge" alt="FunFact"/></a>
+  <a href="[https://github.com/Arsema13/flutter_quiz_app](https://github.com/Arsema13/flutter_quiz_app.git)"><img src="https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge" alt="Quiz App"/></a>
+  <a href="[https://github.com/Arsema13/BMI-Calculator](https://github.com/Arsema13/flutter_BMI_Calculator.git)"><img src="https://img.shields.io/badge/BMI-Calculator-FF80AB?style=for-the-badge" alt="BMI"/></a>
+  <a href="[https://github.com/Arsema13/News-App](https://github.com/Arsema13/flutter_news_app.git)"><img src="https://img.shields.io/badge/News-App-F06292?style=for-the-badge" alt="News"/></a>
+  <a href="[https://github.com/Arsema13/Compass-Menu-Website](https://github.com/arsema16/campus-menu-compass-IP2.git)"><img src="https://img.shields.io/badge/Compass-Menu-Website-FF4D88?style=for-the-badge" alt="Compass Menu"/></a>
+  <a href="[https://github.com/Arsema13/Weather-App](https://github.com/Arsema13/flutter_weather_app.git)"><img src="https://img.shields.io/badge/Weather-App-FF80AB?style=for-the-badge" alt="Weather"/></a>
+  <a href="[https://github.com/Arsema13/FunFact-App](https://github.com/Arsema13/flutter_Funfact_app.git)"><img src="https://img.shields.io/badge/FunFact-App-F06292?style=for-the-badge" alt="FunFact"/></a>
+   <a href="[https://github.com/Arsema13/Ecommerce-App](https://github.com/kurazTeam10/yegna-gebeya.git)"><img src="https://img.shields.io/badge/Ecommerce-App-F06292?style=for-the-badge" alt="Ecommerce App"/></a>
+
 </p>
 
 ---
