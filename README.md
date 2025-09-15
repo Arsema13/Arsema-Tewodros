@@ -60,17 +60,32 @@
 
 ### 💻 Projects
 <p align="center">
-  <a href="https://github.com/Arsema13/flutter_quiz_app"><img src="https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge" alt="Quiz App"/></a>
-  <a href="https://github.com/Arsema13/flutter_BMI_Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-FF80AB?style=for-the-badge" alt="BMI"/></a>
-  <a href="https://github.com/Arsema13/flutter_news_app"><img src="https://img.shields.io/badge/News-App-F06292?style=for-the-badge" alt="News"/></a>
+  <!-- Row 1 -->
+  <a href="https://github.com/Arsema13/flutter_quiz_app">
+    <img src="https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge" alt="Quiz App"/>
+  </a>
+  <a href="https://github.com/Arsema13/flutter_BMI_Calculator">
+    <img src="https://img.shields.io/badge/BMI-Calculator-FF80AB?style=for-the-badge" alt="BMI"/>
+  </a>
+  <a href="https://github.com/Arsema13/flutter_news_app">
+    <img src="https://img.shields.io/badge/News-App-F06292?style=for-the-badge" alt="News"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
   <a href="https://github.com/Arsema13/campus-menu-compass-IP2">
-  <img src="https://img.shields.io/badge/🌐 Compass--Menu--Website-FF4D88?style=for-the-badge" alt="Compass Menu"/>
-</a>
-
-
-  <a href="https://github.com/Arsema13/flutter_weather_app"><img src="https://img.shields.io/badge/Weather-App-FF80AB?style=for-the-badge" alt="Weather"/></a>
-  <a href="https://github.com/Arsema13/flutter_Funfact_app"><img src="https://img.shields.io/badge/FunFact-App-F06292?style=for-the-badge" alt="FunFact"/></a>
-  <a href="https://github.com/kurazTeam10/yegna-gebeya"><img src="https://img.shields.io/badge/Ecommerce-App-F06292?style=for-the-badge" alt="Ecommerce App"/></a>
+    <img src="https://img.shields.io/badge/Compass--Menu--Website-FF4D88?style=for-the-badge" alt="Compass Menu"/>
+  </a>
+  <a href="https://github.com/Arsema13/flutter_weather_app">
+    <img src="https://img.shields.io/badge/Weather-App-FF80AB?style=for-the-badge" alt="Weather"/>
+  </a>
+  <a href="https://github.com/Arsema13/flutter_Funfact_app">
+    <img src="https://img.shields.io/badge/FunFact-App-F06292?style=for-the-badge" alt="FunFact"/>
+  </a>
+  <a href="https://github.com/kurazTeam10/yegna-gebeya">
+    <img src="https://img.shields.io/badge/Ecommerce-App-FF4D88?style=for-the-badge" alt="Ecommerce App"/>
+  </a>
 </p>
 
 
@@ -80,7 +95,10 @@
 <p align="center">
   <a href="mailto:arsematewodros123@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/[your-link](https://www.linkedin.com/in/arsema-tewodros-783b41370?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNqyfm6NrSkqh0tmXP2NN3g%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="https://www.linkedin.com/in/arsema-tewodros-783b41370/">
+  <img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 </p>
 
 ---
