@@ -64,8 +64,9 @@
   <a href="https://github.com/Arsema13/flutter_BMI_Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-FF80AB?style=for-the-badge" alt="BMI"/></a>
   <a href="https://github.com/Arsema13/flutter_news_app"><img src="https://img.shields.io/badge/News-App-F06292?style=for-the-badge" alt="News"/></a>
   <a href="https://github.com/Arsema13/campus-menu-compass-IP2">
-  <img src="https://img.shields.io/badge/Compass-Menu-Website-FF4D88?style=for-the-badge" alt="Compass Menu"/>
+  <img src="https://img.shields.io/badge/🌐 Compass--Menu--Website-FF4D88?style=for-the-badge" alt="Compass Menu"/>
 </a>
+
 
   <a href="https://github.com/Arsema13/flutter_weather_app"><img src="https://img.shields.io/badge/Weather-App-FF80AB?style=for-the-badge" alt="Weather"/></a>
   <a href="https://github.com/Arsema13/flutter_Funfact_app"><img src="https://img.shields.io/badge/FunFact-App-F06292?style=for-the-badge" alt="FunFact"/></a>
