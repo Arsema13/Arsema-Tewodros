@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&vCenter=true&width=600&lines=Hi!+I+am+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+🌸" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&vCenter=true&width=600&lines=Hi!+I+am+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+🌸" alt="Typing Animation"/>
 </p>
 
 ---
