@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&vCenter=true&width=600&lines=Hi!+I'm+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+🌸" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&vCenter=true&width=600&lines=Hi!+I'm+Arsema+Tewodros;I'm+a+Web+Developer;I'm+a+Mobile+App+Developer;Always+Learning+%26+Coding+🌸" alt="Typing Animation"/>
 </p>
 
 ---
 
 ### 💫 About Me
 - 🌸 Passionate **Web & Mobile Developer**  
-- 💻 Skilled in **HTML, CSS, PHP, MySQL, Flutter**  
+- 💻 Skilled in **HTML, CSS, PHP, MySQL, Flutter, JavaScript**  
 - 🚀 Always learning & building creative projects  
 - 🎀 Love blending **tech + design** to create unique solutions  
 
@@ -20,10 +20,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF4D88?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-FF80AB?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F06292?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-FF4D88?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-FF80AB?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-FF4D88?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FF80AB?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-F06292?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ---
@@ -47,12 +47,12 @@
 
 ### 💻 Projects
 <p align="center">
-  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI-Calculator-FF80AB?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News-App-F06292?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass-Menu-Website-FF4D88?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/Weather-App"><img src="https://img.shields.io/badge/Weather-App-FF80AB?style=for-the-badge"/></a>
-  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://img.shields.io/badge/FunFact-App-F06292?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Quiz-App"><img src="https://img.shields.io/badge/Quiz--App-FF4D88?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/BMI-Calculator"><img src="https://img.shields.io/badge/BMI--Calculator-FF80AB?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/News-App"><img src="https://img.shields.io/badge/News--App-F06292?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Compass-Menu-Website"><img src="https://img.shields.io/badge/Compass--Menu--Website-FF4D88?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/Weather-App"><img src="https://img.shields.io/badge/Weather--App-FF80AB?style=for-the-badge"/></a>
+  <a href="https://github.com/Arsema13/FunFact-App"><img src="https://img.shields.io/badge/FunFact--App-F06292?style=for-the-badge"/></a>
 </p>
 
 ---
