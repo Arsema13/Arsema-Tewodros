@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌹 Hi, I'm <span style="color:#ff4d88;">Arsema Tewodros</span> 🌹
+   Hi, I'm <span style="color:#ff4d88;">Arsema Tewodros</span> 
 </h1>
 
 <p align="center">
@@ -58,14 +58,11 @@
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:arsematewodros123@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF4D88?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
-</p>
+ 
 
 ---
 
-<p align="center">
-  <em>💖 Elegant, Creative & Ready to Build Amazing Projects 🌸</em>
-</p>
+
