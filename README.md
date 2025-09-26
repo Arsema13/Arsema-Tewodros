@@ -39,6 +39,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="180px"/>
 </p>
 
+### 🏷️ Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=rose_pine&hide_border=true&langs_count=6&title_color=ff4d88&text_color=ff80ab" alt="Most Used Languages"/>
+</p>
+
 ---
 
 ### 📈 Contribution Graph
