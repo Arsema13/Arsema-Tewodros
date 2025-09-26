@@ -2,6 +2,9 @@
    👋 Welcome to My GitHub World <span style="color:#ff4d88;"></span>
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arsema13&label=Profile%20Views&color=ff4d88&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 <p align="center" style="border: 4px solid #ff4d88; border-radius: 15px; padding: 15px; display: inline-block; box-shadow: 0 0 20px #ff4d88, 0 0 40px #ff80ab;">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&width=600&lines=Hi!+I+am+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+%F0%9F%8C%B8" alt="Typing Animation"/>
@@ -15,7 +18,6 @@
 - 🚀 Always learning & building creative projects  
 - 🎀 Love blending **tech + design** to create unique solutions  
 - 🔗 Check out my **[Portfolio](https://your-portfolio-link.com)**   
-
 
 ---
 
@@ -35,9 +37,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="180px"/>
-
 </p>
-
 
 ---
 
@@ -54,7 +54,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev Quote"/>
@@ -92,7 +91,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 🌍 Contact
@@ -102,7 +100,6 @@
  <a href="https://www.linkedin.com/in/arsema-tewodros-783b41370/">
   <img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 </p>
 
 ---
